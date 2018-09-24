@@ -1,0 +1,62 @@
+body {
+  background-color: #076652;
+  color: black;
+  font-family: "Helvetica", sans-serif;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px #808080;
+}
+h2{
+  text-align: center;
+  font-style: italic;
+  font-size: 18px;
+  border-bottom: 2px solid;
+  padding-bottom: 20px;
+}
+
+p{
+  padding-bottom: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+a{
+  text-decoration: underline;
+  font-style: bold;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+a:hover{
+  color: blue;
+}
+
+li{
+  padding: 5px 5px 5px 5px;
+}
+
+.tiger {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.tiger2 {
+  width: 750px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 60px;
+}
+
+.goat {
+  font-weight: bold;
+}
